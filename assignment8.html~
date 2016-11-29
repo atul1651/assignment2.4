@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<title> Assignment for the  testing of ul and ol tags in html</title>
+</head>
+<body>
+<header><h1>Scrambled Eggs</h1></header>
+
+<hr>
+<div id="images">
+<a href="/html/">HTML</a> |
+<a href="/css/">CSS</a> |
+<a href="/js/">JavaScript</a> |
+<a href="/jquery/">jQuery</a>
+</div>
+<hr>
+<div id="images">
+<img src="ganguly1.jpg" height="148px">
+<img src="ganguly2.jpg"height="148px">
+<img src="ganguly3.jpg"height="148px">
+
+<p>Nature, in the broadest sense, is the natural, physical, or material world or universe. "Nature" can refer to the phenomena of the physical world, and also to life in general. The study of nature is a large part of science. Although humans are part of nature, human activity is often understood as a separate category from other natural phenomena.</p>
+
+</div>
+</body>
+</html>
+
+<style>
+div#images{
+
+text-align:center;
+
+
+}
+</style>
